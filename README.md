@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiNuoKaslana)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QiNuoKaslana&show_icons=true&theme=radical)
+
 
 
 
